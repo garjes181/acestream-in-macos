@@ -1,4 +1,4 @@
-# acestream-in-macos
+# AceAtream for macOS
 
 Usage:
 
