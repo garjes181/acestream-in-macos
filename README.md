@@ -1,4 +1,4 @@
-# AceAtream for macOS
+# AceStream for macOS
 
 Usage:
 
