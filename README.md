@@ -5,7 +5,7 @@ Usage:
 ```bash
 
 git clone https://github.com/garjes181/acestream-in-macos.git
-cd acestream-im-macos
+cd acestream-in-macos
 sh start.sh
 
 ```
